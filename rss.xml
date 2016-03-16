@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PNH of Hartford]]></title>
         <description><![CDATA[PNH of Hartford]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pnh-of-hartford/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:50:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 01:51:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pnh-of-hartford/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a35e2bb1-f9f4-4630-bad9-03b7b47028cf.jpg">]]></description>
+            <link>https://thegrid.ai/pnh-of-hartford/ef932b02-4095-40e0-beb1-e720c9a87eef/index.html</link>
+            <guid isPermaLink="false">ef932b02-4095-40e0-beb1-e720c9a87eef</guid>
+            <pubDate>Wed, 16 Mar 2016 01:50:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11536135_110580375946396_1169939351306990332_n.png?oh=d99466eed1459b83471b851e9964c284&oe=578D3DA9">]]></description>
-            <link>undefined20d29a65-e727-4c03-a3a6-9f4f3bffbad9/index.html</link>
+            <link>https://thegrid.ai/pnh-of-hartford/20d29a65-e727-4c03-a3a6-9f4f3bffbad9/index.html</link>
             <guid isPermaLink="false">20d29a65-e727-4c03-a3a6-9f4f3bffbad9</guid>
             <pubDate>Wed, 16 Mar 2016 01:50:27 GMT</pubDate>
         </item>
